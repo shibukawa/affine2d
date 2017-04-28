@@ -7,7 +7,7 @@ This code is comes from `nanovgo <https://github.com/shibukawa/nanovgo>`_ and ad
 Document
 ---------
 
-See `godoc <https://godoc/github.com/shibukawa/affine2d>`_.
+See `godoc <https://godoc.org/github.com/shibukawa/affine2d>`_.
 
 License
 --------
